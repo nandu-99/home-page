@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&family=Encode+Sans&family=Fira+Code&family=Fuggles&family=Gabarito&family=Montserrat:ital,wght@1,600&family=Mooli&family=Pixelify+Sans:wght@500&family=Poppins:wght@300&family=Titillium+Web&family=Ubuntu:ital,wght@1,500&display=swap');
+.nav-logo{
+    height: 80px;
+    border-radius: 50%;
+}
+
+.my-page{
+    background-image: url("https://img.freepik.com/premium-photo/black-abstract-line-background_769163-177.jpg?size=626&ext=jpg&ga=GA1.1.1518270500.1698451200&semt=ais");
+}
+
+.item-nav{
+    color: white;
+    font-family: 'Poppins', sans-serif; ;
+    font-size: larger;
+    margin-right: 0%;
+}
+
+.item-nav:hover{
+    color: aqua;
+}
+
+.anchor{
+    margin-left: auto;
+}
+
+.body-section{
+    height: 85vh;
+}
+
+.box-left{
+
+    color: white;
+    height: 50px;
+    font-family: 'Encode Sans', sans-serif;
+    text-align: right;
+    padding-left: 250px;
+}
+
+
+.image{
+    height: 400px;
+}
+.name{
+    margin-bottom:20px ;
+}
+.home-para{
+    font-family: 'Gabarito', cursive;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.what-h1{
+    color: white;
+    text-align: center;
+    font-family: "DM Sans", sans-serif;
+    font-size: 50px;
+}
+
+.what-p{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.card{
+    background-color: transparent;
+    color: white;
+    border: 2px white solid;
+    padding: 20px;
+}
+
+.image{
+    border-radius: 60%;
+}
+
+.box-left{
+    padding-left: 130px;
+}
+
+.box-right{
+    padding-right: 105px ;
+}
+
+.image-icon{
+    height: 40px;
+    /* padding-left: 500px; */
+}
+
+.code{
+    height: 100px;
+}
+
+.contact{
+    padding: 100px;
+}
